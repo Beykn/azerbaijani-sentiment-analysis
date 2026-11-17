@@ -1,0 +1,8 @@
+.env
+.venv/
+models/
+*.npy
+*.h5
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
