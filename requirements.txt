@@ -1,0 +1,22 @@
+# Data handling
+pandas>=2.2
+numpy>=1.26
+openpyxl>=3.1
+
+# Text cleaning
+ftfy>=6.2
+
+# YouTube Data API v3
+google-api-python-client>=2.100
+python-dotenv>=1.0
+
+# Word embeddings
+gensim>=4.3.3
+
+# Classifier + evaluation
+tensorflow>=2.18
+scikit-learn>=1.5
+
+# Notebooks / plots (optional)
+matplotlib>=3.8
+jupyter>=1.0
